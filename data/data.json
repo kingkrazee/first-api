@@ -1,0 +1,116 @@
+{
+    "AboutMe":"My name is Kayden Hendricks and I am jigalo",
+    "Projects":[
+        {  
+            "name":"Calculator",
+            "github":"https://kingkrazee.github.io/calculator/",
+            "vercel":"https://calculator-fcfe8un9b-kingkrazees-projects.vercel.app/",
+            "description":"I am GOAT",
+            "image":"URl"
+        },
+        {  
+            "name":"BMI Calculator",
+            "github":"https://kingkrazee.github.io/bmical/",
+            "vercel":"https://bmical-3ahrdtl0o-kingkrazees-projects.vercel.app",
+            "description":"I am GOAT",
+            "image":"URl"
+        },
+        {  
+            "name":"Keyboard",
+            "github":"https://kingkrazee.github.io/keyboard/",
+            "vercel":"https://keyboard-ahyehl1qu-kingkrazees-projects.vercel.app",
+            "description":"I am GOAT",
+            "image":"URl"
+        },
+        {  
+            "name":"Temperature Converter",
+            "github":"https://kingkrazee.github.io/tempconverter/",
+            "vercel":"https://tempconverter-muopn2n2v-kingkrazees-projects.vercel.app",
+            "description":"I am GOAT",
+            "image":"URl"
+        },
+        {  
+            "name":"Eccomerce",
+            "github":"https://kingkrazee.github.io/fitz/",
+            "vercel":"https://fitz-e415zyatz-kingkrazees-projects.vercel.app",
+            "description":"I am GOAT",
+            "image":"URl"
+        }
+    ],
+    "education":[
+        {
+            "description":"secondary schooling career",
+            "year":"2018 - 2022",
+            "institution":"Rylands High School",
+            "contact":[
+                {
+                    "name":"Natalie",
+                    "contactDetails":""
+                }
+            ]
+            },
+             {
+            "description":"digital media",
+            "year":"2021 - 2021",
+            "institution":"Tshisimani Center For Activist",
+            "contact":[
+                {
+                    "name":"Natalie",
+                    "contactDetails":""
+                }
+            ]
+        }
+        
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"URl"
+        },
+        {
+            "name":"CSS",
+            "image":"URl"
+        }
+       
+    ],
+    "workExp":[
+        {
+            "placeOfWork":"Checkers",
+            "year":"2019-2023",
+            "description":"casual",
+            "contact":{
+                "name":"Markie",
+                "cell":"",
+                "position":"Regional Manager"
+            }
+        },
+        {
+            "placeOfWork":"Docks",
+            "year":"2023-2023",
+            "description":"general worker contract",
+            "contact":{
+                "name":"Malcom",
+                "cell":"",
+                "position":"Foreman"
+            }
+        },
+        {
+            "placeOfWork":"Tafelberg Furnishers",
+            "year":"2023-2023",
+            "description":"promoting contract",
+            "contact":{
+                "name":"Rezah",
+                "cell":"",
+                "position":"Manager"
+            }
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URl"
+        }
+    ]
+}
