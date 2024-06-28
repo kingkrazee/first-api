@@ -1,39 +1,39 @@
 {
-    "AboutMe":"My name is Kayden Hendricks and I am jigalo",
+    "AboutMe":"My name is Kayden Hendricks and I am intermediate Developer",
     "Projects":[
         {  
             "name":"Calculator",
             "github":"https://kingkrazee.github.io/calculator/",
             "vercel":"https://calculator-fcfe8un9b-kingkrazees-projects.vercel.app/",
-            "description":"I am GOAT",
+            "description":"One of my first HTML and CSS task's with a bit of JavaScript.",
             "image":"URl"
         },
         {  
             "name":"BMI Calculator",
             "github":"https://kingkrazee.github.io/bmical/",
             "vercel":"https://bmical-3ahrdtl0o-kingkrazees-projects.vercel.app",
-            "description":"I am GOAT",
+            "description":"Part of my JavaScript tasks",
             "image":"URl"
         },
         {  
             "name":"Keyboard",
             "github":"https://kingkrazee.github.io/keyboard/",
             "vercel":"https://keyboard-ahyehl1qu-kingkrazees-projects.vercel.app",
-            "description":"I am GOAT",
+            "description":"One of my first HTML and CSS task's with no JavaScript.",
             "image":"URl"
         },
         {  
             "name":"Temperature Converter",
             "github":"https://kingkrazee.github.io/tempconverter/",
             "vercel":"https://tempconverter-muopn2n2v-kingkrazees-projects.vercel.app",
-            "description":"I am GOAT",
+            "description":"Part of my JavaScript tasks",
             "image":"URl"
         },
         {  
             "name":"Eccomerce",
             "github":"https://kingkrazee.github.io/fitz/",
             "vercel":"https://fitz-e415zyatz-kingkrazees-projects.vercel.app",
-            "description":"I am GOAT",
+            "description":"My first Eccomerce website",
             "image":"URl"
         }
     ],
@@ -44,8 +44,8 @@
             "institution":"Rylands High School",
             "contact":[
                 {
-                    "name":"Natalie",
-                    "contactDetails":""
+                    "name":"Rylands",
+                    "contactDetails":"021 637 4407"
                 }
             ]
             },
@@ -55,8 +55,8 @@
             "institution":"Tshisimani Center For Activist",
             "contact":[
                 {
-                    "name":"Natalie",
-                    "contactDetails":""
+                    "name":"Mohammed Jameel Abdulla",
+                    "contactDetails":"021 685 1516/8"
                 }
             ]
         }
@@ -70,6 +70,18 @@
         {
             "name":"CSS",
             "image":"URl"
+        },
+        {
+            "name":"Bootstrap",
+            "image":"URl"
+        },
+        {
+            "name":"JavaScript",
+            "image":"URl"
+        },
+        {
+            "name":"VueJS",
+            "image":"URl"
         }
        
     ],
@@ -80,7 +92,7 @@
             "description":"casual",
             "contact":{
                 "name":"Markie",
-                "cell":"",
+                "cell":"061 602 0263",
                 "position":"Regional Manager"
             }
         },
@@ -90,7 +102,7 @@
             "description":"general worker contract",
             "contact":{
                 "name":"Malcom",
-                "cell":"",
+                "cell":"071 113 3846",
                 "position":"Foreman"
             }
         },
@@ -100,12 +112,42 @@
             "description":"promoting contract",
             "contact":{
                 "name":"Rezah",
-                "cell":"",
+                "cell":"067 705 4755",
                 "position":"Manager"
             }
         }
     ],
     "testimonials":[
+        {
+            "name":"Candice Keet",
+            "position":"Colleague",
+            "message":"Knowing Kayden has been such a fun-filled adventure. He has a way with people and knows how to get along with everyone. He is a hard worker, dedicated to providing the best he has to offer. He always has a smile on his face and spreads positivity everywhere he is. In terms of coding, I would say that Kayden will have a great future as a software developer because he's never afraid to ask questions and go the extra mile to make his code look and function so much better. Being in Kayden's company has been something I wouldn't trade for the world, he always tries to help when his colleagues ask help and is never lazy when it comes to coding. He is an excellent team player and having him in your team will bring you nothing but success.",
+            "image":"URl"
+        },
+        {
+            "name":"Caitlin Dalwai",
+            "position":"Colleague",
+            "message":"I met Kayden through Life Choices Academy and have had the privilege to call him a friend. Kayden is up to par in the technical area and does not shy away to help others in need. He is a great team player and always makes sure everyone is included. I believe that Kayden will be a positive asset to any company that hires him.",
+            "image":"URl"
+        },
+        {
+            "name":"Jamin Joshua Langeveldt",
+            "position":"Colleague",
+            "message":"I am writing to express my admiration for Kayden's dedication and passion as a beginner web developer. Despite being new to the field, Kayden has shown an impressive level of commitment to learning and growth. Kayden to my perception has a solid understanding of the fundamentals of web development, including HTML, CSS, and Bootstrap. He has successfully applied these skills to create an interesting and aesthetical website. His ability to transform a design into a fully functional website is truly commendable.",
+            "image":"URl"
+        },
+        {
+            "name":"Olwethu Malumla",
+            "position":"Colleague",
+            "message":"What strikes me most about Kayden Hendrick is his exceptional character. He is a true team player, always willing to lend a hand, offer support, and celebrate the successes of others. His kindness, humility, and generosity of spirit make him a beloved member of our class community.But what impresses me most about Kayden is his kindness, empathy, and compassion. He has a gift for understanding and relating to others, and he has a heart of gold. He is always willing to help those in need, and his positive energy is contagious.",
+            "image":"URl"
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URl"
+        },
         {
             "name":"",
             "position":"",
