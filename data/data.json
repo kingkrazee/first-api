@@ -6,7 +6,7 @@
             "github":"https://kingkrazee.github.io/calculator/",
             "vercel":"https://calculator-fcfe8un9b-kingkrazees-projects.vercel.app/",
             "description":"One of my first HTML and CSS task's with a bit of JavaScript.",
-            "image":"URl"
+            "image":"https://kingkrazee.github.io/host-/images/Screenshot 2024-05-10 083920.png"
         },
         {  
             "name":"BMI Calculator",
@@ -20,21 +20,21 @@
             "github":"https://kingkrazee.github.io/keyboard/",
             "vercel":"https://keyboard-ahyehl1qu-kingkrazees-projects.vercel.app",
             "description":"One of my first HTML and CSS task's with no JavaScript.",
-            "image":"URl"
+            "image":"https://kingkrazee.github.io/host-/images/Screenshot 2024-05-10 102408.png"
         },
         {  
             "name":"Temperature Converter",
             "github":"https://kingkrazee.github.io/tempconverter/",
             "vercel":"https://tempconverter-muopn2n2v-kingkrazees-projects.vercel.app",
             "description":"Part of my JavaScript tasks",
-            "image":"URl"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/Screenshot%202024-07-02%20145720.png?raw=true"
         },
         {  
             "name":"Eccomerce",
             "github":"https://kingkrazee.github.io/fitz/",
             "vercel":"https://fitz-e415zyatz-kingkrazees-projects.vercel.app",
             "description":"My first Eccomerce website",
-            "image":"URl"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/Screenshot%202024-07-02%20145507.png?raw=true"
         }
     ],
     "education":[
