@@ -35,7 +35,15 @@
             "vercel":"https://fitz-e415zyatz-kingkrazees-projects.vercel.app",
             "description":"My first Eccomerce website",
             "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/Screenshot%202024-07-02%20145507.png?raw=true"
+        },
+        {  
+            "name":"Hulu",
+            "github":"https://kingkrazee.github.io/hulu2/",
+            "vercel":"https://hulu2-g8hf1fuiq-kingkrazees-projects.vercel.app/",
+            "description":"My in class tasks",
+            "image":"https://kingkrazee.github.io/host-/images/more images/hulu.png"
         }
+
     ],
     "education":[
         {
