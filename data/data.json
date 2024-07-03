@@ -73,23 +73,23 @@
     "skills":[
         {
             "name":"HTML",
-            "image":"URl"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/htmlLogo.png?raw=true"
         },
         {
             "name":"CSS",
-            "image":"URl"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/cssLogo.png?raw=true"
         },
         {
             "name":"Bootstrap",
-            "image":"URl"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/bootStrapLogo.png?raw=true"
         },
         {
             "name":"JavaScript",
-            "image":"URl"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/jsLogo.png?raw=true"
         },
         {
             "name":"VueJS",
-            "image":"URl"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/vueLogo.png?raw=true"
         }
        
     ],
