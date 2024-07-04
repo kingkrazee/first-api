@@ -73,23 +73,28 @@
     "skills":[
         {
             "name":"HTML",
-            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/htmlLogo.png?raw=true"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/htmlLogo.png?raw=true",
+            "description":"Advanced"
         },
         {
             "name":"CSS",
-            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/cssLogo.png?raw=true"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/cssLogo.png?raw=true",
+            "description":"Competent"
         },
         {
             "name":"Bootstrap",
-            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/bootStrapLogo.png?raw=true"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/bootStrapLogo.png?raw=true",
+            "description":"Advanced"
         },
         {
             "name":"JavaScript",
-            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/jsLogo.png?raw=true"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/jsLogo.png?raw=true",
+            "description":"Competent"
         },
         {
             "name":"VueJS",
-            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/vueLogo.png?raw=true"
+            "image":"https://github.com/kingkrazee/eccomerce/blob/main/images/vueLogo.png?raw=true",
+            "description":"Competent"
         }
        
     ],
