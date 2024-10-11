@@ -50,23 +50,22 @@
             "description":"secondary schooling career",
             "year":"2018 - 2022",
             "institution":"Rylands High School",
-            "contact":[
+            "contact":
                 {
                     "name":"Rylands",
                     "cellDetails":"021 637 4407"
                 }
-            ]
             },
              {
             "description":"digital media",
             "year":"2021 - 2021",
             "institution":"Tshisimani Center For Activist",
-            "contact":[
+            "contact":
                 {
                     "name":"Mohammed Jameel Abdulla",
                     "cellDetails":"021 685 1516/8"
                 }
-            ]
+            
         }
         
     ],
